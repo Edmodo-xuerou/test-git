@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="unnamed" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d904d3b7-3092-4698-a7fb-360ba14332c7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="15" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-DarchetypeCatalog=local" />
+  </component>
+  <component name="ProjectId" id="1a12aQ4yLd4a4wfunw2A9ccLutf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="E:/jenkins/jenkins_maven" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.1640625" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.nd.selenium_java" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.HelloWorldTest">
+    <configuration name="HelloWorldTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JunitProject" />
+      <extension name="coverage" runner="jacoco">
+        <pattern>
+          <option name="PATTERN" value="com.nd.selenium_java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nd.selenium_java" />
+      <option name="MAIN_CLASS_NAME" value="com.nd.selenium_java.HelloWorldTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorldTest.assertall" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JunitProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nd.selenium_java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nd.selenium_java" />
+      <option name="MAIN_CLASS_NAME" value="com.nd.selenium_java.HelloWorldTest" />
+      <option name="METHOD_NAME" value="assertall" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorldTest.insertParameter (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JunitProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nd.selenium_java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nd.selenium_java" />
+      <option name="MAIN_CLASS_NAME" value="com.nd.selenium_java.HelloWorldTest" />
+      <option name="METHOD_NAME" value="insertParameter" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorldTest.insertParameter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JunitProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nd.selenium_java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nd.selenium_java" />
+      <option name="MAIN_CLASS_NAME" value="com.nd.selenium_java.HelloWorldTest" />
+      <option name="METHOD_NAME" value="insertParameter(com.nd.selenium_java.HelloWorld)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorldTest.testHelloWorld" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JunitProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nd.selenium_java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nd.selenium_java" />
+      <option name="MAIN_CLASS_NAME" value="com.nd.selenium_java.HelloWorldTest" />
+      <option name="METHOD_NAME" value="testHelloWorld(com.nd.selenium_java.HelloWorld)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.HelloWorldTest" />
+      <item itemvalue="JUnit.HelloWorldTest.assertall" />
+      <item itemvalue="JUnit.HelloWorldTest.insertParameter" />
+      <item itemvalue="JUnit.HelloWorldTest.insertParameter (1)" />
+      <item itemvalue="JUnit.HelloWorldTest.testHelloWorld" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HelloWorldTest" />
+        <item itemvalue="JUnit.HelloWorldTest.insertParameter (1)" />
+        <item itemvalue="JUnit.HelloWorldTest.insertParameter" />
+        <item itemvalue="JUnit.HelloWorldTest.testHelloWorld" />
+        <item itemvalue="JUnit.HelloWorldTest.assertall" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d904d3b7-3092-4698-a7fb-360ba14332c7" name="Default Changelist" comment="" />
+      <created>1585888841799</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585888841799</updated>
+      <workItem from="1585888845953" duration="640000" />
+      <workItem from="1585891602519" duration="7959000" />
+      <workItem from="1585901589550" duration="7400000" />
+      <workItem from="1585980526369" duration="27000" />
+      <workItem from="1585991115437" duration="627000" />
+      <workItem from="1586229215303" duration="1531000" />
+      <workItem from="1586233660640" duration="2028000" />
+      <workItem from="1586314199247" duration="3000" />
+      <workItem from="1586615282184" duration="2811000" />
+      <workItem from="1586659464501" duration="7250000" />
+      <workItem from="1586672695040" duration="2417000" />
+      <workItem from="1586753301322" duration="3009000" />
+      <workItem from="1586860554373" duration="510000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Editor_|_Color_Scheme_|_General" timestamp="1586667103668">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Editor_|_Color_Scheme_|_General/0.0.1280.680@0.0.1280.680" timestamp="1586667103668" />
+    <state x="233" y="0" key="#Project_Structure" timestamp="1585899213620">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1585899213620" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586663234691">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1586663234691" />
+    <state x="371" y="96" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1586673005273">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="96" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1280.680@0.0.1280.680" timestamp="1586673005273" />
+    <state x="397" y="202" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1586665201001">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="397" y="202" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.680@0.0.1280.680" timestamp="1586665201001" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1586861061291">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1586861061291" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1586708736097">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586708736097" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1586708736097">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1586708736097" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1586708736096">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1586708736096" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1586708736097">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1586708736097" />
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1585900390046">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1585900390046" />
+    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1585900390046">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1585900390046" />
+    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1585900390046">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1585900390046" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1585900390046">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1585900390046" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1586673108324">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1586673108324" />
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1586753300796">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1586753300796" />
+    <state x="412" y="59" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1585899961311">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="412" y="59" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.680@0.0.1280.680" timestamp="1585899961311" />
+    <state x="28" y="36" key="new project wizard" timestamp="1585911615961">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="28" y="36" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1585911615961" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/nd/selenium_java/HelloWorldTest.java</url>
+          <line>7</line>
+          <properties class="com.nd.selenium_java.HelloWorldTest">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/selenium_java$HelloWorldTest.exec" NAME="HelloWorldTest Coverage Results" MODIFIED="1586666863781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="jacoco" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.nd.selenium_java.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/selenium_java$HelloWorldTest.ic" NAME="HelloWorldTest Coverage Results" MODIFIED="1586625019124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.nd.selenium_java.*</FILTER>
+    </SUITE>
+  </component>
+</project>
